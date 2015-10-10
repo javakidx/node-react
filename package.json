@@ -5,20 +5,17 @@
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.4.3",
-    "express": "^4.4.5"
+    "express": "^4.4.5",
+    "request" : "2.64.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactjs/react-tutorial.git"
+    "url": "https://github.com/javakidx/node-react.git"
   },
   "keywords": [
     "react",
-    "tutorial",
+    "tutorial"
   ],
   "author": "Anke Yang"
 }
